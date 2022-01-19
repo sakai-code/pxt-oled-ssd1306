@@ -1,5 +1,5 @@
 {
-    "OLED.clear|block": "清除显示",
+    "OLED.clear|block": "画面をクリア",
     "OLED.drawLine|block": "画线条 起点:|x: $x0 y: $y0 终点| x: $x1 y: $y1",
     "OLED.drawLoading|block": "显示进度条 $percent %",
     "OLED.drawRectangle|block": "绘制矩形 起点:|x: $x0 y: $y0 终点| x: $x1 y: $y1",
