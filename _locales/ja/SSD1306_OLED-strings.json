@@ -1,14 +1,14 @@
 {
     "OLED.clear|block": "画面をクリア",
-    "OLED.drawLine|block": "線を描く 起点:|x: $x0 y: $y0 終点| x: $x1 y: $y1",
-    "OLED.drawLoading|block": "パーセントを表示 $percent %",
-    "OLED.drawRectangle|block": "矩形を表示 起点:|x: $x0 y: $y0 終点| x: $x1 y: $y1",
-    "OLED.init|block": "OLED 初期あ 幅 %width 高さ %height",
-    "OLED.newLine|block": "開業",
-    "OLED.writeNumNewLine|block": "開業して数字を表示 $n",
+    "OLED.drawLine|block": "線を描く 始点:|x: $x0 y: $y0 終点| x: $x1 y: $y1",
+    "OLED.drawLoading|block": "パーセント表示 $percent %",
+    "OLED.drawRectangle|block": "矩形を描く 始点:|x: $x0 y: $y0 終点| x: $x1 y: $y1",
+    "OLED.init|block": "OLED 初期化 幅 %width 高さ %height",
+    "OLED.newLine|block": "改行",
+    "OLED.writeNumNewLine|block": "改行して数字を表示$n",
     "OLED.writeNum|block": "数字を表示 $n",
-    "OLED.writeStringNewLine|block": "改行して文字を表示 $str",
-    "OLED.writeString|block": "文字を表示 $str",
+    "OLED.writeStringNewLine|block": "改行して文字列を表示 $str",
+    "OLED.writeString|block": "文字列を表示 $str",
     "{id:category}Math": "Math",
-    "{id:category}OLED": "OLED"
+    "{id:category}OLED": "OLED液晶"
 }
